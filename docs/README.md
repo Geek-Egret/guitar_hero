@@ -20,15 +20,17 @@ ROOT
 ├─example       参考文件
 ├─firmware      产品固件
 ├─hardware      产品硬件文件
+├─hardware      产品上位机文件
 └─produce       产品生产文件
 ```
 | 文件夹说明链接 |
 | ---- | 
-| [3d](../3d/README.md) |
-| [example](../example/README.md) |
-| [firmware](../firmware/README.md) |
-| [hardware](../hardware/README.md) |
-| [produce](../produce/README.md) |
+| [3d](../3d/docs/README.md) |
+| [example](../example/docs/README.md) |
+| [firmware](../firmware/docs/README.md) |
+| [hardware](../hardware/docs/README.md) |
+| [software](../software/docs/README.md) |
+| [produce](../produce/docs/README.md) |
 ----
 ### SDK说明
 供诸位同好进行二次开发😁
@@ -38,14 +40,9 @@ ROOT
 
 [下位机SDK]()
 
-# <font color=#0b88bb>🐧要做一辈子嵌入式开发!!!!!🐧</font>
-
 ### 版本说明
 | 版本 | 说明 | 可用性 |
 | --- | --- | --- |
 | V0.X | | |
 
-
-
-
-
+# <font color=#0b88bb>🐧要做一辈子嵌入式开发!!!!!🐧</font>
